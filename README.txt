@@ -1,3 +1,3 @@
-Hello World,
+Hello, This is Todd.
 
-I'm Todd.  Learning to git some!!!!
+I'm learning git version control with git-it.
